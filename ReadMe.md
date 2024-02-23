@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergradute Depratment of computer science and engineering of University of moratuwa.lived in sri lanka<br>
+I am a dedicated undergraduate student at the Department of Computer Science and Engineering at the University of Moratuwa, residing in the vibrant landscape of Sri Lanka. My academic journey is fueled by a profound interest in cutting-edge technologies, with a focus on machine learning and artificial intelligence. Alongside my academic pursuits, I am passionate about web development, particularly in the realm of full-stack development. My goal is to seamlessly blend theoretical knowledge with practical skills, shaping a future where I can contribute to advancements in AI and create impactful web solutions.<br>
 
 
 ## 🌐 Socials:

@@ -19,11 +19,11 @@
 I'm a final-year Computer Science & Engineering undergraduate with hands-on industry experience across software engineering, AI, and cloud-native development. I enjoy turning complex problems into clean, working software — whether that's an AI-powered security system, a full-stack web app, or a mobile product.
 
 **Currently:**
-- 🏢 **Associate Software Engineer (Part-time)** @ [Surecore](https://surecore.io) — building production-grade software products
 - 🎓 **Final Year Student** @ University of Moratuwa — working on my capstone research project *(NeuraShield)*
 
 **Previously:**
 - 💼 **Software Engineering Intern** @ [WSO2](https://wso2.com) — worked with Asgardeo, WSO2's identity & access management platform
+- 🏢 **Associate Software Engineer (Part-time)** @ [Surecore](https://surecore.io) — building production-grade software products
 - 🤝 **Deputy Pillar Head** @ Sasnaka Sansada — community leadership & social impact
 
 ---
@@ -68,17 +68,6 @@ Modern web applications face rapidly evolving cyberattacks — SQL injection, XS
 **AI / ML:** `PyTorch` `Transformers (HuggingFace)` `LangChain` `DistilBERT` `NumPy` `Pandas`
 
 **Cloud & Tools:** `AWS` `Azure` `Firebase` `Docker` `Git` `Figma`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChalanaGayan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChalanaGayan&theme=dark&hide_border=true&layout=compact&count_private=true" height="160"/>
-</p>
-
----
 
 <p align="center">
   <i>Open to collaborations, research opportunities, and interesting ideas — feel free to reach out!</i>

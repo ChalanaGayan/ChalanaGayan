@@ -20,11 +20,11 @@ I'm a final-year Computer Science & Engineering undergraduate with hands-on indu
 
 **Currently:**
 - 🎓 **Final Year Student** @ University of Moratuwa — working on my capstone research project *(NeuraShield)*
+- 🤝 **Deputy Pillar Head - Membership Development** @ Sasnaka Sansada — community leadership & social impact
 
 **Previously:**
 - 💼 **Software Engineering Intern** @ [WSO2](https://wso2.com) — worked with Asgardeo, WSO2's identity & access management platform
 - 🏢 **Associate Software Engineer (Part-time)** @ [Surecore](https://surecore.io) — building production-grade software products
-- 🤝 **Deputy Pillar Head** @ Sasnaka Sansada — community leadership & social impact
 
 ---
 
